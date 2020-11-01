@@ -1,0 +1,3 @@
+if not getsenv then
+game.Players.LocalPlayer:Kick("Incompatible Exploit")
+end
